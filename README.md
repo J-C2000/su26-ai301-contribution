@@ -13,6 +13,8 @@
 
 My reasons for choosing this issue from the Mcgill University repository are simple: I love the city of Montreal (I will be visiting it again in a couple of weeks) and know what it's like to spend hours on course portals carefully looking at the descriptions for -- and then selecting -- courses. Thus, the issue I've selected, which, presently, appears to be a simple bug, allows me to further grow my skills in TypeScript while introducing me to Rust. The bug in question seems simple enough to allow me to learn as I go without treading too far outside the bounds of the 3-4 week time constraint.
 
+There is plenty to work with in the README file, and the maintainers appear to be active as of this week. 
+
 ---
 
 ## Understanding the Issue
