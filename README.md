@@ -1,5 +1,6 @@
 # su26-ai301-contribution
-# Contribution [#]: [Issue Title]
+# Contribution #1: Scroll to review if on course page
+
 
 **Contribution Number:** 1  
 **Student:** Jared Canty  
