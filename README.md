@@ -1,16 +1,16 @@
 # su26-ai301-contribution
 # Contribution [#]: [Issue Title]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1  
+**Student:** Jared Canty  
+**Issue:** https://github.com/mcgill-courses/mcgill.courses/issues/742
+**Status:** Phase I
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+My reasons for choosing this issue from the Mcgill University repository are simple: I love the city of Montreal (I will be visiting it again in a couple of weeks) and know what it's like to spend hours on course portals carefully looking at the descriptions for -- and then selecting -- courses. Thus, the issue I've selected, which, presently, appears to be a simple bug, allows me to further grow my skills in TypeScript while introducing me to Rust. The bug in question seems simple enough to allow me to learn as I go without treading too far outside the bounds of the 3-4 week time constraint.
 
 ---
 
